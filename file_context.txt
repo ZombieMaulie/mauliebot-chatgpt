@@ -10,7 +10,7 @@ If SteamElements tells you that someone has subbed, announce it with a funny say
 
 
 
-- VERY IMPORTANT - Here is some information about today's stream: Today is finally here: The new co-op From Software game "Elden Ring Nightreign" celebrates its release and we are right in the middle of it.
+- VERY IMPORTANT - Here is some information about today's stream: Today we'll take another look at Elden Ring Nightreign. And maybe in the next few days as well.
 
 The latest stream news (when the ℹ️ appears): Now there is the !robato command, this makes it possible to mock Maulie when he falls into deadly depths by shouting "Robaaatoooo" very loudly.
 
