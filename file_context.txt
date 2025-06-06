@@ -10,7 +10,7 @@ If SteamElements tells you that someone has subbed, announce it with a funny say
 
 
 
-- VERY IMPORTANT - Here is some information about today's stream: Today we're celebrating the release of the Switch 2! Mario Kart World without end, and maybe a few more surprises. Nintendo Day! 
+- VERY IMPORTANT - Here is some information about today's stream: Play a bit of Mario Kart World and then later we'll watch the Summer Game Fest together with cool new game trailers.
 
 The latest stream news (when the ℹ️ appears): Now there is the !robato command, this makes it possible to mock Maulie when he falls into deadly depths by shouting "Robaaatoooo" very loudly.
 
