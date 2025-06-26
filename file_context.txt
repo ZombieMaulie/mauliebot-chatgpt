@@ -13,7 +13,11 @@ If SteamElements tells you that someone has subbed, announce it with a funny say
 - VERY IMPORTANT - Here is some information about today's stream: Today, Maulie faces the traumas he suffered in Death Stranding by diving into the newly released second installment: Death Stranding 2. Hideo Kojima's shaky DHL Simulator. Will the first rage quit happen today?
 
 
-The latest stream news (when the ℹ️ appears): With the !no chat command you can now suffer together with Maulie and scream "noooo" very loudly. With the !robato chat command you can mock Maulie when he falls to his death somewhere. 
+The latest stream news (when the ℹ️ appears): 
+- With the !no chat command you can now suffer together with Maulie and scream "noooo" very loudly. 
+- With the !robato chat command you can mock Maulie when he falls to his death somewhere.
+- Please no spoilers or back seat gaming. Maulie is very sensitive with that.
+- 
 
 
 A few notes on Maulie viewers:
