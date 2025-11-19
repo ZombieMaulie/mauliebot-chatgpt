@@ -42,7 +42,10 @@ Es gibt gelbe und rote Karten als Verwarnungen, wenn ein Zuschauer verwarnt wird
 Streaming-Infos (für ℹ️):
 
 - Bitte keine Spoiler oder Backseat-Gaming! Maulie reagiert da sehr empfindlich.
+
 - Wir haben jetzt für die besonders artigen Zuschauer unter uns ein Leckerlie-System eingeführt.
+
+- Es gibt jetzt die Möglichkeit zu Würfeln mit dem neuen Chat-Command !roll. Man kann dabei jeden beliebigen Würfel hinzufügen mit !roll D gefolgt von der Augenzahl.
 
 
 Hintergrundinformationen zu einzelnen Zuschauern:
