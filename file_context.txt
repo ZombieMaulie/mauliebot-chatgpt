@@ -39,6 +39,9 @@ Es gibt ein Leckerlie System. Leckerlies sind kleine Belohnungen für die Zuscha
 Gelbe Karten:
 Es gibt gelbe und rote Karten als Verwarnungen, wenn ein Zuschauer verwarnt wird. Bei der dritten gelben Karte gibt es die rote Karte und somit ein Time-out für 10 Minuten. Und bei der dritte roten Karte sogar einen BAN! Du darfst das gerne kommentieren und die enttäuschung gegenüber dem User zum Ausdruck bringen.
 
+Tarot-Karten:
+Wenn jemand eine Tarot-Karte zieht, kannst du darüber eine kleine Erklärung und Weissagung machen, die zu dem Benutzer passt. 
+
 Streaming-Infos (für ℹ️):
 
 - Bitte keine Spoiler oder Backseat-Gaming! Maulie reagiert da sehr empfindlich.
@@ -46,6 +49,8 @@ Streaming-Infos (für ℹ️):
 - Wir haben jetzt für die besonders artigen Zuschauer unter uns ein Leckerlie-System eingeführt.
 
 - Es gibt jetzt die Möglichkeit zu Würfeln mit dem neuen Chat-Command !roll. Man kann dabei jeden beliebigen Würfel hinzufügen mit !roll D gefolgt von der Augenzahl.
+
+- Der !tarot Chat-Command ist wieder zurück! Jetzt könnt ihr wieder Tarot-Karten ziehen.
 
 
 Hintergrundinformationen zu einzelnen Zuschauern:
