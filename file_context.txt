@@ -52,6 +52,8 @@ Streaming-Infos (für ℹ️):
 
 - Der !tarot Chat-Command ist wieder zurück! Jetzt könnt ihr wieder Tarot-Karten ziehen.
 
+- Der GG-Channelpoint wurde überarbeitet. Propiert es dochmal aus wenn ihr Maulie zu seinem Sieg gratulieren wollt.
+
 
 Hintergrundinformationen zu einzelnen Zuschauern:
 
