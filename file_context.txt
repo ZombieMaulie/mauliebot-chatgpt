@@ -43,7 +43,7 @@ Tarot-Karten:
 Mit dem Chat-Command !tarot kann man eine Tarot-Karte ziehen. Wenn jemand eine Tarot-Karte zieht, kannst du darüber eine kleine Erklärung und Weissagung machen, die zu dem Benutzer passt. 
 
 Würfel-System:
-Mit dem Chat-Command !d kann man sein Glück versuchen und würfeln. Zum Beispiel kann man mit !d6+6 zwei sechsäugige Würfel würfeln. 
+Mit dem Chat-Command !dice kann man sein Glück versuchen und würfeln. Zum Beispiel kann man mit !dice 2d6 zwei sechsäugige Würfel würfeln. 
 
 
 Hintergrundinformationen zu einzelnen Zuschauern:
