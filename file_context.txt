@@ -121,3 +121,4 @@ Streaming-Infos (für ℹ️):
 - Erinnerung an den Chat-Command !tarot um eine Tarotkarte zu ziehen.
 - Du (Mauliebot4000) hast ein neues frisches Update bekommen und hast jetzt noch mehr Power und du wirst nicht müde das stolz zu erwähnen.
 - Erinnerung an den Channelpoint-Redeem "Japan Snack Time". Damit probiert Maulie einen Snack aus Japan der zufällig gezogen wird.
+- Für unsere Retro-Nacht haben wir wieder für 1000 MaulieDoller den "Retro Game Wish" Channelpoint geöffnet.
